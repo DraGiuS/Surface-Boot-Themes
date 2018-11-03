@@ -34,7 +34,6 @@ terminal-box: "terminal_*.png"
    num_ticks = 46
    ticks_disappear = true
    start_angle = -60
-   center_bitmap = "centerQ.png"
    tick_bitmap = "startQ.png"
 }
 
